@@ -8,6 +8,26 @@ const ProjectCard = () =>{
             <h2 className="m-1">
             MY PROJECTS
         </h2>
+            <div className="w-55px mt-5 border rounded-lg hover:bg-[#c6aed6d0] hover:text-black transition-500">
+  <a href="https://mkvolunteers.vercel.app" target="blank">
+    <div className="flex items-center flex-col">
+      <Image
+        src="/card/mkv-website.jpeg"
+        alt="Project Image"
+        height={50}
+        width={50}
+        className="w-52 h-52 m-2 rounded-lg mt-4"
+      />
+
+      <h3 className="font-bold text-xl mt-2">MKV Website</h3>
+
+      <p className="flex flex-wrap m-2 text-xs mb-4 text-center">
+        A modern responsive website designed to deliver a professional
+        digital experience with clean UI and user-friendly navigation.
+      </p>
+    </div>
+  </a>
+</div>
         <div className="lg:flex justify-around gap-5 lg:justify-center p-10 rounded-lg bg-[#181818] text-white" >
             <div className="w-53px  border rounded-lg mt-5  hover:bg-[#c6aed6d0] hover:text-black transition-500">
             <a href="https://html-css-final-assignment-cpi8.vercel.app" target="blank">
@@ -54,14 +74,6 @@ const ProjectCard = () =>{
                 
             </a>
             </div>
-
-            <div className="w-55px border mt-5 rounded-lg hover:bg-[#c6aed6d0] hover:text-black transition-500">
-            <a href="https://milestone1and2-xi.vercel.app" target="blank">
-            <div className="flex items-center flex-col">
-                <Image src="/card/static-resume.png" alt="Project Image" width={50} height={50} className="w-52 h-52 m-2 rounded-lg mt-4" />
-                    <h3 className="font-bold text-xl mt-2">Static Resume Project</h3>
-                    <p className="  flex flex-wrap m-2 text-xs  mb-4 text-center " >My Static Resume Project using just html & CSS</p>
-                    </div>
         
             </a>
             </div>

@@ -45,7 +45,7 @@ const Hero = () => {
           </Link>
         </div>
     <div>
-      <Link href="mailto:toobailyas006@gmail.com" target='blank'>
+      <Link href="mailto:toobailyas30@gmail.com" target='blank'>
         <button className='px-6 py-3 rounded-full mr-4 bg-gradient-to-br from-blue-400 via-purple-400 to-pink-500  hover:bg-slate-200 text-white'>
             HIRE ME
         </button>

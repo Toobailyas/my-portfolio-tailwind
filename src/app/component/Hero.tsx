@@ -34,7 +34,7 @@ const Hero = () => {
       repeat={Infinity}
     />
          </h1>
-    <p className='text-[#ccc8f3fb] text-base sm:text-lg mb-6 lg-text-xl'>A passionate Frontend Developer with expertise in HTML, CSS, TypeScript, NextJs, C & C++ Languages. A programming enthusiast and FAST’29 BS AI student with a keen interest in AI and building intelligent, user-friendly web applications.
+    <p className='text-[#ccc8f3fb] text-base sm:text-lg mb-6 lg-text-xl'>A passionate Frontend Developer with expertise in HTML, CSS, TypeScript, NextJs. A programming enthusiast and FAST’29 BS AI student with a keen interest in AI and building intelligent, user-friendly web applications.
     </p>
     <div className="socials flex flex-row gap-2  mb-3">
           <Link href="https://github.com/Toobailyas" target='blank'>  

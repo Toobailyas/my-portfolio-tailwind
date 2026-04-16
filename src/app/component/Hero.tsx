@@ -34,7 +34,7 @@ const Hero = () => {
       repeat={Infinity}
     />
          </h1>
-    <p className='text-[#ccc8f3fb] text-base sm:text-lg mb-6 lg-text-xl'>A passionate Frontend Developer with expertise in HTML, CSS, TypeScript, and C. A programming enthusiast and FAST’29 BS AI student with a keen interest in AI and building intelligent, user-friendly web applications.
+    <p className='text-[#ccc8f3fb] text-base sm:text-lg mb-6 lg-text-xl'>A passionate Frontend Developer with expertise in HTML, CSS, TypeScript, NextJs, C & C++ Languages. A programming enthusiast and FAST’29 BS AI student with a keen interest in AI and building intelligent, user-friendly web applications.
     </p>
     <div className="socials flex flex-row gap-2  mb-3">
           <Link href="https://github.com/Toobailyas" target='blank'>  
@@ -45,15 +45,15 @@ const Hero = () => {
           </Link>
         </div>
     <div>
-      <Link href="mailto:toobailyas30@gmail.com" target='blank'>
+      <Link href="mailto:toobailyas006@gmail.com" target='blank'>
         <button className='px-6 py-3 rounded-full mr-4 bg-gradient-to-br from-blue-400 via-purple-400 to-pink-500  hover:bg-slate-200 text-white'>
             HIRE ME
         </button>
         </Link>
-        <Link href="https://milestone1and2-xi.vercel.app" target="_blank">
+        
         <button className='px-1 py-1 rounded-full bg-gradient-to-br from-blue-400 via-purple-400 to-pink-500 hover:bg-slate-800 text-white border mt-3'>
             <span className='block bg-[#121212] hover:bg-slate-800 rounded-full px-5 py-2'> My Resume</span></button>
-            </Link>
+          
     </div>
     
     </div>

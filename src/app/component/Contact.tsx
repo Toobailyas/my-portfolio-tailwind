@@ -14,12 +14,12 @@ const Contact = () => {
           <div className=" text-white">
             <h3 className="font-bold text-4xl m-3 text-start">Let's Conect</h3>
             <p className="text-start text-xl m-3">
-              I'm currently looking for nw opportunities,my inbox is always
+              I'm currently looking for new opportunities, my inbox is always
               open. I'll try my best to get back to you.{" "}
             </p>
             <p className="text-start text-xs m-3">
               My Email:{" "}
-              <a href="mailto:toobailyas30@gmail.com">toobailyas30@gail.com</a>
+              <a href="mailto:toobailyas006@gmail.com">toobailyas006@gmail.com</a>
             </p>
             <div className="socials flex flex-row gap-2 m-3">
               <Link href="https://github.com/Toobailyas" target="blank">
